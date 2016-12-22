@@ -9,11 +9,11 @@ System yg di gunakan
 -windows
 
 Live demo bisa kunjungi  http://educatecode.com/hpp
-User     :spv
-Password :spv
+User     :manajer
+Password :123
 
-User     :admin
-Password :admin
+User     :supervisor
+Password :123
 
 yang saya share disni adalah belum lengkap 
 tapi kalo mau full version seperti live demo 
