@@ -1,0 +1,3 @@
+	<!-- bagian bawah -->
+	<footer>
+	</footer>
